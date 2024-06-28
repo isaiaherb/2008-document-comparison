@@ -1,4 +1,4 @@
-## Analyzing a Federal Reserve Conference Call and a CNN Money Article from September 29, 2008
+## September 29, 2008: Federal Reserve Conference Call and a CNN Money Article
 
 ### Emotion Scores
 
